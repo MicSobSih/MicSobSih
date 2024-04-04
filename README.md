@@ -1,4 +1,6 @@
-### Hi there 👋
+<hl>Hi, I'm Michael! </hl>
+
+<h2> Projects:</h2>
 
 <!--
 **MicSobSih/MicSobSih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
